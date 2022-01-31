@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @researcher-mind aka Roma Jain
 - 👀 I’m interested in researching and developing stuff
+- I’m currently into implementing machine learning and deep learning algorithms
 - 📫 How to reach me ... romaaajain@gmail.com
 
 <!---
